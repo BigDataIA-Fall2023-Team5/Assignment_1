@@ -29,11 +29,32 @@ if uploaded_file is not None:
 
 
     if data_type == "Origination Data":
-        context = ge.data_context.DataContext("/Users/shruti/Desktop/Assignment_1/Part_2/gx")
+        context = ge.data_context.DataContext("/Users/shruti/Desktop/Assignment_1/Part_2/GEX_Origination/gx")
+        checkpoint_config = context.get_checkpoint("Freddie_Mac_Origination_v1")
+        checkpoint_result = checkpoint_config.run(run_name="Manual_run")
+        data = context.build_data_docs()
+        results = context.get_validation_result(expectation_suite_name="GE_Suite")
+        print(results)
+        if results["success"]:
+            st.write("Validation succeeded!")
+        else:
+            st.write("Validation failed.")
+            st.write("Click here for more info")
+    else: 
+        context = ge.data_context.DataContext("/Users/shruti/Desktop/Assignment_1/Part_2/GEX_Monthly/gx")
         checkpoint_config = context.get_checkpoint("Freddie_Mac_Monthly_v1")
         checkpoint_result = checkpoint_config.run(run_name="Manual_run")
         data = context.build_data_docs()
-        link = data['local_site']
-        st.write(link)
+        results = context.get_validation_result(expectation_suite_name="GE_Suite")
+        print(results)
+        if results["success"]:
+            st.write("Validation succeeded!")
+        else:
+            st.write("Validation failed.")
+            st.write("Click here for more info")
+        
+
+
+
 
 
