@@ -62,8 +62,31 @@ if selected_tab == "Try":
         st.write("Enter URL Above")
 
 elif selected_tab == "Docs":
-    st.title("Docs Content")
-    st.write("This is the content for Docs")
+    st.title("DOCUMENTATION FOR NOUGHAT AND PYPDF")
+    st.subheader("NOUGHAT PROS AND CONS:")
+    st.write("""
+             **PROS:**
+             - Better handling of images and embedded objects within the PDF
+             - Provides more contextual summaries for longer documents
+             """)
+    st.write("""
+             **CONS:**
+             - Slower processing time as compared to pypdf
+             - Some compatibility issues with heavily formatted documents
+             """)
+    st.subheader("PYPDF PROS AND CONS:")
+    st.write("""
+             **PROS:**
+             - Faster processing speeds for text-heavy documents
+             - Simple to use and has a straightforward integration with Streamlit
+             """)
+    st.write("""
+             **CONS:**
+             - Cannot effectively handle images or embedded objects
+             - Summaries can occasionally miss crucial information for very lengthy documents
+              """)
+    st.subheader("ARCHITECTURE DIAGRAM")
+    st.image('/Users/saniyakapur/Desktop/Big Data/pdf_reader.png')
 
 
 
