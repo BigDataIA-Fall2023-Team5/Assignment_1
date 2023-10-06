@@ -23,9 +23,12 @@ Part 1: <br>
 
 <br>
 Part 2: <br>
-![Alt text](1.png)<br>
-![Alt text](2.png)<br>
-![Alt text](3.png)<br>
+![Alt text](1.png)
+<br>
+![Alt text](2.png)
+<br>
+![Alt text](3.png)
+<br>
 
 
 
