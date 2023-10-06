@@ -8,7 +8,7 @@ import wget
 import os
 import re
 
-#st.image('/Users/saniyakapur/Desktop/Screenshot 2023-10-06 at 1.48.30 AM.png')
+st.image('Screenshot 2023-10-06 at 1.48.30 AM.png')
 
 selected_tab = st.sidebar.selectbox("Select a tab:", ["Try", "Docs"])
 
@@ -88,4 +88,4 @@ elif selected_tab == "Docs":
              - Summaries can occasionally miss crucial information for very lengthy documents
               """)
     st.subheader("ARCHITECTURE DIAGRAM")
-    #st.image('/Users/saniyakapur/Desktop/Big Data/pdf_reader.png')
+    st.image('pdf_reader.png')
