@@ -16,9 +16,11 @@ Both tools will be interactive, web-based applications developed using Streamlit
 <br>
 <br>
 ## Architecture
+![pdf_reader](https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/edef315d-a522-4445-8a3d-aaa04b44b193)
 
 <br>
 ![MicrosoftTeams-image](https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/31af0198-dead-4be2-b344-2de7bb223b7d)
+
 ## File Structure
 Part 1: <br>
 ![Alt text](part1.png)
