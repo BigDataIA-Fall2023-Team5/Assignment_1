@@ -37,7 +37,7 @@ if selected_tab == "Try":
                 print(f"Failed to retrieve PDF from URL: {response.status_code}")
         
         elif extraction_method == "Nougat OCR":
-            target_directory = "/Users/shruti/Desktop/Assignment_1/Part_1"
+            target_directory = ""
             
             wget.download(user_url_input, out=target_directory)
             match = re.search(r'/([^/]+)$', user_url_input)
