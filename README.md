@@ -15,7 +15,7 @@ https://k4zmnuibfbfjretfv5au69.streamlit.app/<br>
 Both tools will be interactive, web-based applications developed using Streamlit and hosted on Streamlit's public cloud.
 <br>
 <br>
-## Architecture
+
 
 ## File Structure
 Part 1: <br>
