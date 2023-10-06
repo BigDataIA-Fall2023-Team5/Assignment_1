@@ -15,19 +15,24 @@ https://k4zmnuibfbfjretfv5au69.streamlit.app/<br>
 Both tools will be interactive, web-based applications developed using Streamlit and hosted on Streamlit's public cloud.
 <br>
 <br>
+## Architecture
 
-
+<br>
+![MicrosoftTeams-image](https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/31af0198-dead-4be2-b344-2de7bb223b7d)
 ## File Structure
 Part 1: <br>
 ![Alt text](part1.png)
 
 <br>
 Part 2: <br>
-![Alt text](1.png)
+<img width="540" alt="1" src="https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/efd510d5-64ad-4bb1-8ee6-5d0b6d45691f">
+
 <br>
-![Alt text](2.png)
+<img width="544" alt="2" src="https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/460030ef-c8f6-40e5-927f-75a4925126a1">
+
 <br>
-![Alt text](3.png)
+<img width="545" alt="3" src="https://github.com/BigDataIA-Fall2023-Team5/Assignment_1/assets/114001023/314f0ddd-3f8a-4b04-a4f4-2f6926c889fd">
+
 <br>
 
 
