@@ -21,7 +21,7 @@ if uploaded_file is not None:
     else:
         df = pd.read_csv(uploaded_file)
     
-    profile = ProfileReport(df, title="Pandas Profiling Report", explorative=True)
+    profile = ProfileReport(df, title="Freddie Mac Report", explorative=True)
     profile.to_file("output.html")
     with open('output.html', 'r', encoding='utf-8') as file:
         html_content = file.read()
