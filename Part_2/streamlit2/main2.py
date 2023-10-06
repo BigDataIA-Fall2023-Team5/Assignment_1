@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pandas_profiling import ProfileReport
+from ydata_profiling import ProfileReport
 import openpyxl
 import great_expectations as ge
 from great_expectations.data_context import FileDataContext
