@@ -2,8 +2,9 @@
 
 ## Assignment_1
 <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9rGPJK7ej2I/maxresdefault.jpg)](https://youtu.be/9rGPJK7ej2I)
 
+
+[![Video Thumbnail](Video_thumbnail.png)](https://youtu.be/9rGPJK7ej2I)
 
 <br>
 
