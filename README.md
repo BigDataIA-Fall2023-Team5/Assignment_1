@@ -1,6 +1,11 @@
 # Text Extraction Tool and Freddie Mac Dataset Quality Assessment App on Streamlit
 
 ## Assignment_1
+<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9rGPJK7ej2I/maxresdefault.jpg)](https://youtu.be/9rGPJK7ej2I)
+
+
+<br>
 
 ## Summary
 The project encompasses the development of two distinct tools. <br>
