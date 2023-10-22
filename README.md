@@ -4,7 +4,7 @@
 <br>
 
 
-[![Video Thumbnail](Video_thumbnail.png)](https://youtu.be/9rGPJK7ej2I)
+[![Video Thumbnail](Vid_Thumbnail_1.jpeg)](https://youtu.be/9rGPJK7ej2I)
 
 <br>
 
